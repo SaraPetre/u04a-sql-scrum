@@ -1,0 +1,28 @@
+Kursöversikt
+
+Agila projektmetoder och projektledning, 20 yhp
+Innehåll
+I denna kurs kommer den studerande lära sig olika projektmetoder inom systemutveckling med fokus på agila metoder i koppling till CD/CI. Den studerande kommer efter avslutad kurs ha god insikt i syftet med agila systemutvecklingsmodeller och DevOps tillämpning i dessa projekt. Den studerande kommer även få kompetens i att projektleda ett systemutvecklingsprojekt i Scrum.
+
+Mål
+Den studerande skall efter genomförd kurs med godkänt resultat kunna:
+
+Kunskaper
+
+om agil systemutveckling
+i DevOps funktion och syfte inom agil systemutveckling
+om dokumentering av process- och infrastrukturskrav i ett systemutvecklingsprojekt.
+om att leda ett team
+ kollaborativ mjukvara för projektstyrning med koppling till CD/CI-flöden såsom t.ex. Gitlab
+Färdigheter
+
+i projektledning med hjälp av Scrum
+inom utveckling enligt det agila tankesättet 
+i att sätta upp olika CD/CI Pipelines för exempelvis Test, Build, Staging och Produktion
+i programvaror i syfte att övervaka och hantera spårbarhet i systemutvecklingsprocessen
+i programvaror i syfte att automatisera och orkestrera den kontinuerliga leveransen.
+inom Docker, Jenkins samt versionhanterare som Git.
+inom skriptning med bl.a Bash, Python och dess applikationer inom DevOps-flöden och CI/CD.
+Kompetenser
+
+i att projektleda ett systemutvecklingsprojekt med hjälp av Scrum
